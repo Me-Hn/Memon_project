@@ -1,0 +1,16 @@
+body{
+    background: pink;
+}
+
+.demo{
+    height: 450px;
+    width: 400px;
+    margin: 25px 350px;}
+
+.btn{
+    background: rgb(0, 247, 255);
+}
+
+input{
+    margin: 20px 0px;
+}

@@ -1,0 +1,63 @@
+body{
+background: black;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background: #6351ce;
+    height: 60px;
+    width: 100%;}
+
+   .demo{
+    height: 60px;
+    width: 70px;
+    background: white;
+    margin: 0px 25px;
+   }
+
+   .nav1{
+    height: 50px;
+    width: 600px;
+    margin: 2px 150px;}
+   
+    .hp{
+        height: 30px;
+        margin: -41px 102px;
+        width: 100px
+    }
+
+    .hp h5{
+        font-family: regular 400;
+    }
+    
+   .demo img{
+    height: 100%;
+    width: 100%;
+   }
+
+   .nav ul li a{
+    color: white;}
+   
+
+   .navbar-brand{
+    color: white;}
+   
+
+.main{
+    margin: 25px 0px;}
+
+    
+    
+        .mob{
+            text-transform: uppercase;
+            color:#f29530;
+            font-size: 35px;
+            padding: 20px 0px 0px 25px;}
+        .phead{
+             border: solid 1px #f29530;
+             margin: 25px 25px;   
+        }
